@@ -1,4 +1,4 @@
-# Reading API Documentation from Coworkers or Companies
+# Reading API Documentation
 
 > A practical guide for finding, reading, validating, and understanding API documentation when integrating with an internal service, a coworker's API, or a third-party company.
 
