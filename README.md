@@ -14,7 +14,7 @@ Nothing too formal or fancy. Just simple, practical notes about software enginee
 
 ### 📥 Inbox — Quick Notes & Random Thoughts
 
-* [Guide to reading API documentation](./inbox/Reading%20API%20Documentation%20from%20Coworkers%20or%20Companies)
+* [Guide to reading API documentation](./inbox/Reading%20API%20Documentation%20from%20Coworkers%20or%20Companies.md)
 
 
 ### ⛓️ Blockchain
