@@ -14,7 +14,8 @@ Nothing too formal or fancy. Just simple, practical notes about software enginee
 
 ### 📥 Inbox — Quick Notes & Random Thoughts
 
-* [OpenAPI & Swagger Notes](./inbox/openapi.md)
+* [Guide to reading API documentation](./inbox/reading-api-documentation-from-coworkers-or-companies
+)
 
 
 ### ⛓️ Blockchain
